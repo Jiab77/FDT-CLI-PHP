@@ -15,3 +15,7 @@ The copy process should start and you should have results few seconds after.
 > It's a very basic code actually so don't blame me.
 >
 > Will commit a better code soon.
+
+## Dependencies
+
+You'll need java installed.
