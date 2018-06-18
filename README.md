@@ -1,21 +1,32 @@
-# FDT-CLI-PHP
-PHP version of my previous Batch interface
+# Bye bye Github...
 
-## Usage
+Why do I'm leaving Github ?
 
-Can be used from CLI or via a browser:
+> Because I can't live with the idea that Microsoft now owns the biggest place where the open source code is / was hosted.
 
-* CLI: `php -f FDT-CLI.php`
-* Browser:
-	1. in a shell: `php -S localhost:8000` inside the folder
-	2. open your browser to this address: `localhost:8000`
+And ?
 
-The copy process should start and you should have results few seconds after.
+> Also because Github didn't took the time to ask us, developpers, users, if we would be ok with this operation and my reply would be **NO!**
 
-> It's a very basic code actually so don't blame me.
->
-> Will commit a better code soon.
+# New home
 
-## Dependencies
+But where could you find my code now ?
 
-You'll need java installed.
+> I just moved to Gitlab as many other devs did.
+
+# Gists
+
+My gists will stay on Github for few reasons:
+
+ * Github has a better audience on Google
+ * Did not found the same feature with the same visibility on Gitlab
+
+Place of my gists: https://gist.github.com/jiab77
+
+# Projects
+
+I might just keep the projects names on Github too for the same reason as above, but with only the present file and a link to the new project home.
+
+# Repository
+
+The new place is here: https://gitlab.com/jiab77/FDT-CLI-PHP
